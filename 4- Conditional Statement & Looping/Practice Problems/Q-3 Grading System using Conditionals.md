@@ -1,4 +1,4 @@
-# Q-2 Discount Calculator - II
+# Q-3 Grading System using Conditionals
 
 ## Problem Statement
 You are required to implement a grading system for a school based on the marks obtained by students in a test. The goal is to write a JavaScript program that determines the grade of a student using conditional statements.
