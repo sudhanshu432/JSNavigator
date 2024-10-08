@@ -12,13 +12,13 @@ Write a JavaScript function named checkEligibility that takes an integer input a
 
 
 **Expected Input**
-17
+- 17
 **Expected Output**
-denied
+- denied
 **Expected Input**
-22
+- 22
 **Expected Output**
-granted
+- granted
 
 
 **Hints:**
