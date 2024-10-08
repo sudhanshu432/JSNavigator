@@ -11,13 +11,13 @@ Write a JavaScript function named checkEligibility that takes an integer input a
 
 
 
-**Expected Input**
+- **Expected Input**
 - 17
-**Expected Output**
+- **Expected Output**
 - denied
-**Expected Input**
+- **Expected Input**
 - 22
-**Expected Output**
+- **Expected Output**
 - granted
 
 
