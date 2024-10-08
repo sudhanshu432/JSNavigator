@@ -1,5 +1,4 @@
-# Q-1 scholarshipEligibility
-
+# Q-2 CalculateAverage
 ## Problem Statement
 Build a simple grade calculator for a teacher. The teacher inputs the scores of students, and the program calculates the average grade. However, the challenge is that the scores input are in strings, and you need to ensure proper type conversion and coercion.
 
