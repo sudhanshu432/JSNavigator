@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>8- Higher Order Functions</title>
+    <script src="index.js"></script>
+</head>
+<body>
+    <h1>8- Higher Order Functions</h1>
+    <p>
+        Higher-order functions are a fundamental concept in programming, especially in functional programming paradigms. A <b>higher-order function</b> is a function that either:
+    </p>
+    <ol>
+        <li><b>Takes one or more functions as arguments,</b> or
+        </li>
+        <li><b>Returns a function as its result.</b>
+        </li>
+    </ol>
+    <p>
+        They allow for more abstract and flexible code. Higher-order functions are often used to manipulate or transform functions, enabling operations like <b>mapping, filtering,</b> and <b>reducing</b> in programming.
+    </p>
+
+    <h3>Key Examples in JavaScript:</h3>
+    <ol>
+        <li><b>Passing Functions as Arguments (Callbacks):</b>
+        </li>
+        <pre>
+            function greet(name) {
+                return `Hello, ${name}!`;
+            }
+            
+            function displayMessage(greetingFunction, name) {
+                console.log(greetingFunction(name));
+            }
+            
+            displayMessage(greet, 'Annu');  // Output: Hello, Annu!
+        </pre>
+    </ol>
+</body>
+</html>
