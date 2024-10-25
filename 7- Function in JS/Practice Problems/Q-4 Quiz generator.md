@@ -79,4 +79,3 @@ Make necessary adjustments to the JS code to achieve the expected output.
 
 
 **Source Code:**
-https://docs.google.com/document/d/1gTZzQKm2AdOoYguxjHpkwL1sGoLaFEXnnSUjHL7wLrg/edit?usp=sharing
